@@ -4,7 +4,7 @@
  <print-settings numCopies="1" zoom="1.0" pageNumbersPrinted="true" orientation="1" paperWidth="612.0" paperHeight="792.0" leftBorder="50.0" rightBorder="50.0" topBorder="50.0" bottomBorder="50.0" />
  <project-data-sources>
   <data-source id="DS0">
-   <property key="Logical" value="uvv" />
+   <property key="Logical" value="(Target Database)" />
    <property key="Connection Type" value="PostgreSQL" />
    <property key="JDBC URL" value="jdbc:postgresql://localhost:5432/uvv" />
    <property key="UID" value="eloisa" />
@@ -16,7 +16,7 @@
    <property key="ca.sqlpower.architect.etl.kettle.repos.password" value="" />
   </data-source>
   <data-source id="DS0">
-   <property key="Logical" value="uvv" />
+   <property key="Logical" value="(Target Database)" />
    <property key="Connection Type" value="PostgreSQL" />
    <property key="JDBC URL" value="jdbc:postgresql://localhost:5432/uvv" />
    <property key="UID" value="eloisa" />
@@ -29,7 +29,7 @@
   </data-source>
  </project-data-sources>
  <source-databases>
-  <database id="DB0" populated="true" UUID="012a9b34-80a1-4531-9737-258dd8dde549" dbcs-ref="DS0" name="uvv" physicalName="uvv" >
+  <database id="DB0" populated="true" UUID="012a9b34-80a1-4531-9737-258dd8dde549" dbcs-ref="DS0" name="(Target Database)" physicalName="uvv" >
    <catalog id="CAT1" populated="false" UUID="2caf4dfb-6502-43f7-b8cf-f49f69c254c8" name="uvv" nativeTerm="database" physicalName="uvv" >
    </catalog>
    <relationships>
