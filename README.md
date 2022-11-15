@@ -18,6 +18,6 @@ Neste repositório você encontrará todos os arquivos necessários para a resol
 
 >O arquivo [cc1m_202202453_hr.architect](https://github.com/eloisapsl/uvv_bd_1_cc1m/blob/main/cc1m_202202453_hr.architect) é o projeto lógico criado no programa SQL Powe Architect.
 
-> O arquivo [cc1m_202202453_mysql_hr.sql](https://github.com/eloisapsl/uvv_bd_1_cc1m/blob/main/cc1m_202202453_mysql_hr.sql) é um script SQL de implementação no SGBD MariaDB/MySQL
+> O arquivo [cc1m_202202453_mysql_hr.sql](https://github.com/eloisapsl/uvv_bd_1_cc1m/blob/main/cc1m_202202453_mysql_hr.sql) é um script SQL de implementação no SGBD MariaDB/MySQL.
 
 
