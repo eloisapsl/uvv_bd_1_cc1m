@@ -8,7 +8,7 @@
 
 **Turma:** CC1M
 
-Neste repositório você encontrará todos os arquivos necessários para a resolução do primeiro PSet (Problem Set) da disciplina de Design e Desenvolvimento de Banco de Dados, como o script SQL para implementação do projeto lógico criado no SQL Power Architect nos SGBDs PostgreSQL e MariaDB/MySQL.
+Neste repositório você encontrará todos os arquivos necessários para a resolução do primeiro PSet (Problem Set) da disciplina de Design e Desenvolvimento de Banco de Dados, como os scripts SQL para implementação do projeto lógico criado no SQL Power Architect nos SGBDs PostgreSQL e MariaDB/MySQL.
 
 * [cc1m_202202453_postgresql_hr.sql](https://github.com/eloisapsl/uvv_bd_1_cc1m/blob/main/cc1m_202202453_postgresql_hr.sql)
 * [cc1m_202202453_hr.architect](https://github.com/eloisapsl/uvv_bd_1_cc1m/blob/main/cc1m_202202453_hr.architect)
